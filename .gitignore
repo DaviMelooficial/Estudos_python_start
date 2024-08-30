@@ -3,3 +3,4 @@ __pycache__/
 .ipynb_documents/
 venv/
 .env/
+.virtual_documents/
